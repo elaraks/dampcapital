@@ -16,6 +16,8 @@ enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
 Housing conditions as accumulative disposession.
+timezone: TIMEZONE
+future: true
 page_title:
   "Damp capital"
 links:
