@@ -18,6 +18,7 @@ description:
 Housing conditions as accumulative disposession.
 timezone: TIMEZONE
 future: true
+theme: architect
 page_title:
   "Damp capital"
 links:
