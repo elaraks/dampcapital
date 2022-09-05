@@ -11,16 +11,13 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/elaraks/dampcapital/tree/hugo/content/
+GitHubLink: https://github.com/elaraks/dampcapital/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
-description:
-Housing conditions as accumulative disposession.
-timezone: TIMEZONE
-future: true
-theme: architect
-page_title:
-  "Damp capital"
+description: 
+    Housing conditions as accumulative disposession.
+page_title: 
+    "Damp capital"
 links:
   - link_name: Twitter
     link: https://twitter.com/_jzhao
