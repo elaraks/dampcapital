@@ -366,6 +366,11 @@ hr {
   flex: 1 1 auto;
 }
 
+.spacer2 {
+  flex: 1 auto 1;
+}
+
+
 header {
   display: flex;
   flex-direction: row;
@@ -378,7 +383,7 @@ header {
   }
     
   & > h2 {
-    font-size: 1.5em;  
+    font-size: 1em;  
   }
 
   & > nav {

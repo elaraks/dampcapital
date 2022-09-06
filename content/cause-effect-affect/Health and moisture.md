@@ -7,7 +7,7 @@ tags:
 Report on the relationship between health and moisture in buildings, released by the UK Centre for Moisture in Buildings. 
 
 | -------------- | -------------- |
-|![](/images/health/health-and-moisture/health-and-moisture-01.png) | ![](/images/health/health-and-moisture/health-and-moisture-02.png)|
+|<img src="/images/health/health-and-moisture/health-and-moisture-01.png"/>| !<img src="/images/health/health-and-moisture/health-and-moisture-02.png"/>|
 |![](/images/health/health-and-moisture/health-and-moisture-03.png) | ![](/images/health/health-and-moisture/health-and-moisture-04.png)|
 |![](/images/health/health-and-moisture/health-and-moisture-05.png) | ![](/images/health/health-and-moisture/health-and-moisture-06.png)|
 |![](/images/health/health-and-moisture/health-and-moisture-07.png) | ![](/images/health/health-and-moisture/health-and-moisture-08.png)|
