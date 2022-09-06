@@ -6,7 +6,7 @@ title: Regina Road
 
 Council housing in 
 
-in [[Croydon Council]]
+in [Croydon](providers/croydon)
 
 ### Timeline
 
@@ -16,4 +16,4 @@ in [[Croydon Council]]
 
 ### Testimony
 
-- [[Survey Response 096]]
+- [Survey response](testimony/SR096)
