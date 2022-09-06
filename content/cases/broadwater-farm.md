@@ -1,11 +1,10 @@
 ---
-caption: Eastfields
 title: Broadwater farm
 ---
 
 ### Summary
 
-[[Haringey]]
+[Haringey](providers/haringey)
 
 
 ### Timeline
@@ -16,6 +15,6 @@ title: Broadwater farm
 
 ### Testimony
 
-- [[SR075]] 
+- [Survey response](testimony/SR075)
 
 

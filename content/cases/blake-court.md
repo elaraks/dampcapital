@@ -4,7 +4,7 @@ title: Blake Court
 
 ### Summary
 
-Council housing in [[Brent Council|Brent]]
+Council housing in [Brent](providers/Brent)
 
 Proposed [[mixed tenure redevelopment]]
 
@@ -16,4 +16,4 @@ Proposed [[mixed tenure redevelopment]]
 
 ### Testimony
 
-- [[Survey Response 093]]
+- [Survey response](testimony/SR093)

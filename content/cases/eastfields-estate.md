@@ -5,9 +5,9 @@ title: Eastfields estate
 
 ### Summary
 
-[[Clarion Housing Group|Clarion]]
+[Clarion](providers/clarion)
 
-in Mitcham, [[Merton Council|Merton]]
+in Mitcham, [Merton](providers/Merton)
 
 ### Timeline
 

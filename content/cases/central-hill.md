@@ -4,8 +4,7 @@ title: Central Hill Estate
 
 ### Summary
 
-Council housing
-in [[Lambeth]]
+Council housing in [Lambeth](providers/Lambeth).
 
 ### Timeline
 
@@ -15,5 +14,5 @@ in [[Lambeth]]
 
 ### Testimony
 
-- [[SR101]]
-- [[SR102]]
+- [Survey response](testimony/SR101)
+- [Survey response](testimony/SR102)
