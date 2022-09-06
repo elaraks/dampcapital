@@ -10,7 +10,7 @@ Material in this archive can be navigated in three main ways:
 
 - Through the notes graph: by hovering over entries to see what else they 'link' to, by clicking on any entry to jump straight to this.   
 - Through in-text hyperlinks: by following an associative path through entries as they link to another.  
-- Through the [[catalogue]]: by searching for tags or key words, by viewing all entries as a single list. 
+- Through the search bar: by imputting key words. 
 
 ### Rationale
 
