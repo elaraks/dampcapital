@@ -21,7 +21,7 @@ html {
 }
 
 .singlePage {
-  padding: 4em 30vw;
+  padding: 3em 3em;
   @media all and (max-width: 1200px) {
     padding: 25px 5vw;
   }
@@ -29,7 +29,7 @@ html {
 
 
 body {
-  background:url('../content/images/dampheat.png') center center no-repeat; 
+  background:url('/content/images/dampheat.png') center center no-repeat; 
   background-size: cover;
   margin: 0 auto;
   height: 100vh;

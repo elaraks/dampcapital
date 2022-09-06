@@ -2,7 +2,7 @@
 title: Damp Capital
 ---
 
-## Housing conditions as accumulative disposession
+# Housing conditions as accumulative disposession
 
 A live research archive. 
 
