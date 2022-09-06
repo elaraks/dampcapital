@@ -22,4 +22,3 @@ Report on the relationship between health and moisture in buildings, released by
 |![](/images/health/health-and-moisture/health-and-moisture-19.png)|![](/images/health/health-and-moisture/health-and-moisture-20.png)|
 |![](/images/health/health-and-moisture/health-and-moisture-21.png)|![](/images/health/health-and-moisture/health-and-moisture-22.png)|
 |![](/images/health/health-and-moisture/health-and-moisture-23.png)|![](/images/health/health-and-moisture/health-and-moisture-24.png)|
-</div>
