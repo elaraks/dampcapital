@@ -1,11 +1,10 @@
 ---
-caption: Wornington Green
 title: Wornington Green
 ---
 
 ### Summary
 
-[[Catalyst]], soon to be [[Peabody]]
+[[content/Catalyst Housing Limited|]], soon to be [[Peabody]]
 
 in [[Kensington & Chelsea]]
 
