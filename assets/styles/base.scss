@@ -1,9 +1,9 @@
 // Replace this with your own font imports!
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
 :root {
-  --font-body: "Source Sans Pro";
-  --font-header: "Inter";
-  --font-mono: "Fira Code"
+  --font-body: "Porpora";
+  --font-header: "Garamond";
+  --font-mono: "Porpora"
 }
 
 // typography
@@ -30,7 +30,7 @@ html {
 
 body {
   background:url('https://elaraks.github.io/dampcapital/dampheat.jpg') center center no-repeat; 
-  background-size: cover;
+  background-size: contain;
   margin: 0 auto;
   height: 100vh;
   width: 100vw;
@@ -187,6 +187,7 @@ blockquote {
 }
 
 article {
+  background-colour: "ffffff" 0.85;
   & > h1 {
     margin-top: 2em;
     font-size: 2em;
