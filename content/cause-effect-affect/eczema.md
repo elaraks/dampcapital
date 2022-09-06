@@ -3,4 +3,4 @@ title: "Eczema"
 ---
 
 
-Like [[rhinitis]] and [[asthma]], eczema is commonly thought of a [[atopy|atopic disease]]. 
+Like [rhinitis](cause-effect-affect/rhinitis) and [asthma](cause-effect-affect/asthma), eczema is commonly thought of a [atopic disease](cause-effect-affect/atopy). 
