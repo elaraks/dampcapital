@@ -1,4 +1,6 @@
 ---
-caption: Peabody
-title: Peabody Group
+title: "Peabody Group"
+tags:
+- housing-providers
+- housing-association
 ---

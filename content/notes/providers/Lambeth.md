@@ -1,3 +1,6 @@
 ---
-title: Lambeth Council
+title: "Lambeth Council"
+tags:
+- housing-providers
+- local-authority
 ---

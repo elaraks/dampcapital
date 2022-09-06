@@ -29,6 +29,8 @@ html {
 
 
 body {
+  background:url('../content/images/dampheat.png') center center no-repeat; 
+  background-size: cover;
   margin: 0;
   height: 100vh;
   width: 100vw;
@@ -313,7 +315,7 @@ hr {
   flex-direction: row;
   gap: 2em;
 
-  @media all and (max-width: 780px) {
+  @media all and (max-width: 1200px) {
     flex-direction: column;
   }
 

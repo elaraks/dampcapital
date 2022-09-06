@@ -1,3 +1,6 @@
 ---
-title: Newham Council
+title: "Newham Council"
+tags:
+- housing-providers
+- local-authority
 ---

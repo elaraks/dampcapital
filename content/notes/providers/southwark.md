@@ -1,3 +1,6 @@
 ---
-title: Southwark Council
+title: "Southwark Council"
+tags:
+- housing-providers
+- local-authority
 ---

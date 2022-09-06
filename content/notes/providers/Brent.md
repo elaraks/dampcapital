@@ -1,3 +1,6 @@
 ---
-title: Brent Council
+title: "Brent Council"
+tags:
+- housing-providers
+- local-authority
 ---

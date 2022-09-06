@@ -1,4 +1,6 @@
 ---
-caption: Catalyst
-title: London & Quadrant Housing Trust
+title: "London & Quadrant Housing Trust"
+tags:
+- housing-providers
+- housing-association
 ---

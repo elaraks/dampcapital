@@ -1,5 +1,4 @@
 ---
-caption: Surviving Squalor
 title: "Surviving Squalor: Britain's Housing Shame"
 ---
 
