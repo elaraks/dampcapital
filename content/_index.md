@@ -1,8 +1,8 @@
 ---
-title: 🪴 Quartz 3.3
+title: Damp Capital
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Housing conditions as accumulative disposession.
 
 1. Extremely fast natural-language [[notes/search|search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
