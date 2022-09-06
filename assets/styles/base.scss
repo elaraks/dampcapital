@@ -29,7 +29,7 @@ html {
 
 
 body {
-  background:url('content/images/dampheat.png') center center no-repeat; 
+  background:url('./static/dampheat.png') center center no-repeat; 
   background-size: cover;
   margin: 0 auto;
   height: 100vh;
@@ -315,6 +315,9 @@ hr {
   color: var(--dark);
   background-color: var(--dark);
 }
+
+.sidebar
+
 
 .page-end {
   display: flex;
