@@ -343,6 +343,10 @@ hr {
   @media all and (max-width: 600px) {
     flex-direction: row;
   }
+    
+  & > * {
+    flex: 1;
+  }
 
 }
 
@@ -355,6 +359,43 @@ hr {
     @media all and (max-width: 600px) {
     flex-direction: row;
   }
+    
+    & > * {
+    flex: 1;
+  }
+
+  & > .backlinks-container {
+        background: rgba(255, 255, 255, 1);
+        box-sizing: border-box;
+        box-shadow: 0 0 0 15px rgba(255, 255, 255, 0.4); 
+        margin: 0.5em 0;
+          
+
+    & > ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+
+      & > li {
+        padding: 0.25em 1em;
+      }
+    }
+  }
+
+  & #graph-container {
+    background: rgba(255, 255, 255, 1);
+    border: rgba(255, 255, 255, 1) 1px solid;
+    box-sizing: border-box;
+    box-shadow: 0 0 0 15px rgba(255, 255, 255, 0.4); 
+    min-height: 250px;
+    margin: 0.5em 0;
+
+    & > svg {
+      margin-bottom: -5px;
+
+    }
+  }
+
 
 }
 
