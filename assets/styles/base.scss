@@ -349,15 +349,7 @@ hr {
    flex-direction: column;
    width: 32%;
    position: sticky;
-    
-    @media all and (max-width: 600px) {
-    flex-direction: row;
-  }
-    
-    & > * {
-    flex: 1;
-  }
-
+        
   & > .backlinks-container {
         order: 2;
         overflow: auto;
