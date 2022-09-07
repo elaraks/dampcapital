@@ -8,6 +8,7 @@
     <!-- Begin actual content -->
     {{partial "header.html" .}}
     <div class="sidebarl" id="article">
+     <article>
       {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
       <p class="meta">
         {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} 
@@ -20,8 +21,9 @@
       </ul>
       {{partial "toc.html" .}}
       {{partial "textprocessing.html" . }}
+    </article>
     </div>
-    <div class="sidebarr" id="side">{{partial "sidebar.html" .}}</div>
+    <div class="sidebarr">{{partial "sidebar.html" .}}</div>
 </div>
 </body>
 </html>
