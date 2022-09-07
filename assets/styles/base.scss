@@ -307,7 +307,7 @@ code {
 }
 
 footer {
-  margin-top: 4em;
+  margin-top: 7em;
   text-align: center;
   & ul {
     padding-left: 0;
@@ -396,12 +396,15 @@ header {
 
   & > h1 {
     font-size: 2em;
-    box-shadow: 0 0 0 15px rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.4);
+    padding: 1em;
   }
     
   & > h2 {
     font-size: 1em; 
-    box-shadow: 0 0 0 15px rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.4);
+    padding: 1em;
+    margin: 1em 1em 1em;
   }
 
   & > nav {
