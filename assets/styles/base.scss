@@ -347,7 +347,7 @@ hr {
    float: right;
    display: flex; 
    flex-direction: column;
-   width: 34%;
+   width: 100%;
     
     @media all and (max-width: 600px) {
     flex-direction: row;
@@ -361,7 +361,6 @@ hr {
         order: 2;
         position: sticky;
         overflow: visible;
-        width: 100%;
         background: rgba(255, 255, 255, 1);
         box-sizing: border-box;
         box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.4); 
@@ -383,7 +382,6 @@ hr {
     order: 1;
     position: sticky;
     overflow: visible;
-    width: 100%;
     background: rgba(255, 255, 255, 1);
     border: rgba(255, 255, 255, 1) 1px solid;
     box-sizing: border-box;
