@@ -192,7 +192,7 @@ blockquote {
 article {
    display: flex; 
    flex-direction: column;
-   flex: 2.25;
+   flex: 2;
    background: rgba(255, 255, 255, 0.9);
    padding: 2vh 3vw;
    font-family: "Urbanist", sans-serif;  
@@ -319,7 +319,6 @@ footer {
 
 side {
   margin-left: 7em;
-  text-align: center;
   & ul {
     padding-left: 0;
   } 
@@ -339,7 +338,8 @@ hr {
   display: flex; 
   flex-direction: column;
   gap: 2em;
-  flex: 0.75;
+  flex: 1;
+  float: right;
     
   @media all and (max-width: 600px) {
     flex-direction: row;

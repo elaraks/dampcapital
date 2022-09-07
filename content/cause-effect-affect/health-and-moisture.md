@@ -4,7 +4,7 @@ tags:
 - report
 ---
 
-Report on the relationship between health and moisture in buildings, released by the UK Centre for Moisture in Buildings. 
+Report on the relationship between health and moisture in buildings, released by the UK Centre for Moisture in Buildings. [View in PDF format in another tab by clicking here](/assets/images/health/health-and-moisture.pdf).
 
 <img src="https://elaraks.github.io/dampcapital/health-and-moisture-01.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/health-and-moisture-02.jpg" width="50%"/>
 
