@@ -30,9 +30,10 @@ html {
 
 
 body {
-  background:url('https://elaraks.github.io/dampcapital/dampheat.jpg') no-repeat center center; 
+  background-position: center;
+  background-image:url('https://elaraks.github.io/dampcapital/dampheat.jpg'); 
+  background-attachment: fixed; 
   background-size: cover;
-  position: sticky; 
   min-height: 100%; 
   max-width: 500%; 
   margin: 0 auto;
@@ -342,12 +343,9 @@ hr {
   }
 
   & > .backlinks-container {
-       background: rgba(255, 255, 255, 1);
-        border-radius: 5px;
         background: rgba(255, 255, 255, 1);
         box-sizing: border-box;
-        box-shadow: 0 0 0 10px hsl(0, 0%, 85%);
-        box-shadow-radius: 0px;
+        box-shadow: 0 0 0 15px rgba (239, 239, 240, 0.5); 
         margin: 0.5em 0;
           
 
@@ -365,10 +363,8 @@ hr {
   & #graph-container {
     background: rgba(255, 255, 255, 1);
     border: rgba(255, 255, 255, 1) 1px solid;
-    border-radius: 5px;
     box-sizing: border-box;
-    box-shadow: 0 0 0 10px hsl(0, 0%, 85%);
-    box-shadow-radius: 0px;
+    box-shadow: 0 0 0 15px rgba (239, 239, 240, 0.5); 
     min-height: 250px;
     margin: 0.5em 0;
 
@@ -400,14 +396,12 @@ header {
 
   & > h1 {
     font-size: 2em;
-    margin-left: 35em;
+    background:rgba(255,255,255, 0.4);
   }
     
   & > h2 {
-    font-size: 1.5em; 
-    align-items: center;
-    margin-right: 35em;
-
+    font-size: 1em; 
+    background:rgba(255,255,255, 0.4);
   }
 
   & > nav {
