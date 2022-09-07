@@ -349,11 +349,18 @@ hr {
    flex-direction: column;
    width: 32%;
    position: sticky;
-        
+    
+    @media all and (max-width: 2000px) {
+    flex-direction: row;
+  }
+    
+    & > * {
+    flex: 1;
+  }
+
   & > .backlinks-container {
         order: 2;
         overflow: auto;
-        width: 100%;
         background: rgba(255, 255, 255, 1);
         box-sizing: border-box;
         box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.4); 
@@ -374,7 +381,6 @@ hr {
   & #graph-container {
     order: 1;
     overflow: auto;
-    width: 100%;
     background: rgba(255, 255, 255, 1);
     border: rgba(255, 255, 255, 1) 1px solid;
     box-sizing: border-box;
