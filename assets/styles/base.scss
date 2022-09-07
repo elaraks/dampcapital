@@ -1,6 +1,6 @@
 // Replace this with your own font imports!
-@import url('https://fonts.googleapis.com/css?family=Urbanist:300');
-@import url('https://fonts.googleapis.com/css?family=Major Mono Display');
+@import url('https://fonts.googleapis.com/css?family=Urbanist:300,200');
+@import url('https://fonts.googleapis.com/css?family=JetBrains Mono:600,700');
 :root {
   --font-body: "Urbanist", sans-serif;
   --font-header: "Major Mono Display", sans-serif;
@@ -342,6 +342,13 @@ hr {
   }
 
   & > .backlinks-container {
+       background: rgba(255, 255, 255, 1);
+        border-radius: 5px;
+        background: rgba(255, 255, 255, 1);
+        box-sizing: border-box;
+        box-shadow: 0 0 0 10px hsl(0, 0%, 85%);
+        box-shadow-radius: 0px;
+        margin: 0.5em 0;
           
 
     & > ul {
@@ -350,13 +357,7 @@ hr {
       margin: 0;
 
       & > li {
-        background: rgba(255, 255, 255, 1);
         padding: 0.25em 1em;
-        border-radius: 5px;
-        background: rgba(255, 255, 255, 1);
-        box-sizing: border-box;
-        box-shadow: 0 0 0 10px hsl(0, 0%, 85%);
-        margin: 0.5em 0;
       }
     }
   }
@@ -367,6 +368,7 @@ hr {
     border-radius: 5px;
     box-sizing: border-box;
     box-shadow: 0 0 0 10px hsl(0, 0%, 85%);
+    box-shadow-radius: 0px;
     min-height: 250px;
     margin: 0.5em 0;
 
