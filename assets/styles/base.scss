@@ -1,9 +1,9 @@
 // Replace this with your own font imports!
 @import url('https://fonts.googleapis.com/css?family=Urbanist:300,200');
-@import url('https://fonts.googleapis.com/css?family=JetBrains Mono:600,700');
+@import url('https://fonts.googleapis.com/css?family=JetBrains Mono');
 :root {
   --font-body: "Urbanist", sans-serif;
-  --font-header: "Major Mono Display", sans-serif;
+  --font-header: "JetBrains Mono";
   --font-mono: "Urbanist", sans-serif;
 }
 
