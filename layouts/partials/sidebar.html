@@ -1,14 +1,10 @@
-
-
-<hr/>
-
 {{if $.Site.Data.config.enableFooter}}
-<div class="sidebar">
-    <div class="backlinks-container">
-        {{partial "backlinks.html" .}}
-    </div>
+<div class="sidebar" id="side">
     <div>
         {{partial "graph.html" .}}
+    </div>
+    <div class="backlinks-container">
+        {{partial "backlinks.html" .}}
     </div>
 </div>
 {{end}}
