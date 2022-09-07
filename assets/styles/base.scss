@@ -190,9 +190,6 @@ blockquote {
 }
 
 article {
-   display: flex; 
-   flex-direction: column;
-   flex: 2;
    background: rgba(255, 255, 255, 0.9);
    padding: 2vh 3vw;
    font-family: "Urbanist", sans-serif;  
@@ -334,18 +331,33 @@ hr {
   background-color: var(--dark);
 }
 
-.sidebar {
+
+
+.sidebarl {
   display: flex; 
   flex-direction: column;
   gap: 2em;
   flex: 1;
-  float: right;
+  float: left;
     
   @media all and (max-width: 600px) {
     flex-direction: row;
   }
 
 }
+
+.sidebarr {
+   display: flex; 
+   flex-direction: column;
+   flex: 2;
+   float: right;
+    
+    @media all and (max-width: 600px) {
+    flex-direction: row;
+  }
+
+}
+
 
 .page-end {
   display: flex;

@@ -7,7 +7,7 @@
 <div class="singlePage">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
-    <article>
+    <div class="sidebarl" id="article">
       {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
       <p class="meta">
         {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} 
@@ -20,8 +20,8 @@
       </ul>
       {{partial "toc.html" .}}
       {{partial "textprocessing.html" . }}
-    </article>
-    <div>{{partial "sidebar.html" .}}</div>
+    </div>
+    <div class="sidebarr" id="sidebar">{{partial "sidebar.html" .}}</div>
 </div>
 </body>
 </html>
