@@ -7,6 +7,7 @@
 <div class="singlePage">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
+    <div id= wrapper>
     <div class="sidebarl" id="article">
      <article>
       {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
@@ -24,6 +25,7 @@
     </article>
     </div>
     <div class="sidebarr">{{partial "sidebar.html" .}}</div>
+    </div>
 </div>
 </body>
 </html>
