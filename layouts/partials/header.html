@@ -1,6 +1,6 @@
 <header>
     {{ $config := cond (eq $.Site.Language.Lang "en") "config" (printf "config.%s" $.Site.Language.Lang) }}
-    <h1 id="page-title"><i><a href="{{ "" | absLangURL }}">{{ ( index $.Site.Data $config ).page_title | default $.Site.Data.config.page_title }}</a></i></h1>
+    <h1 id="page-title"><a href="{{ "" | absLangURL }}">{{ ( index $.Site.Data $config ).page_title | default $.Site.Data.config.page_title }}</a></h1>
     <div class="spacer"></div>
     <h2 id="page-title"><a href="https://elaraks.github.io/dampcapital/about/"> About</a></h2> | <h2 id="page-title"><a href="https://elaraks.github.io/dampcapital/organising-principles/">Organising principles</a></h2>
     <div id="search-icon">

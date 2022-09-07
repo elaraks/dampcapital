@@ -1,5 +1,5 @@
 // Replace this with your own font imports!
-@import url('https://fonts.googleapis.com/css?family=Urbanist:300,200');
+@import url('https://fonts.googleapis.com/css?family=Urbanist:300,300italic,200,200italic');
 @import url('https://fonts.googleapis.com/css?family=JetBrains Mono:600,600italic');
 :root {
   --font-body: "Urbanist", sans-serif;
@@ -400,7 +400,9 @@ header {
   margin: 1em 0 2em;
 
   & > h1 {
+    font-family: "JetBrains Mono";
     font-size: 2em;
+    font-style: italic;
     background: rgba(255, 255, 255, 0.4);
     padding: 10px;
   }
