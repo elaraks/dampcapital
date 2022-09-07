@@ -344,13 +344,13 @@ hr {
 }
 
 .sidebarr {
-   float: left;
    display: flex; 
    flex-direction: column;
    width: 34%;
+   float: right;
     
     @media all and (max-width: 1200px) {
-    flex-direction: row;
+    flex-direction: column;
   }
     
     & > * {
