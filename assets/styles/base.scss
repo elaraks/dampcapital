@@ -1,9 +1,10 @@
 // Replace this with your own font imports!
-@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,200');
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+@import url('https://fonts.googleapis.com/css?family=Old Standard TT');
 :root {
-  --font-body: "Montserrat", sans-serif;
-  --font-header: "Garamond", serif;
-  --font-mono: "Montserrat", sans-serif;
+  --font-body: "Rubik", sans-serif;
+  --font-header: "Old Standard TT", serif;
+  --font-mono: "Rubik", sans-serif;
 }
 
 // typography
@@ -190,7 +191,7 @@ blockquote {
 article {
    background: rgba(255, 255, 255, 0.9);
    padding: 2vh 3vw;
-   font-family: "Montserrat", sans-serif;  
+   font-family: "Rubik", sans-serif;  
     
   & > h1 {
    margin-top: 2em;
