@@ -347,7 +347,8 @@ hr {
    float: right;
    display: flex; 
    flex-direction: column;
-   width: 100%;
+   width: 32%;
+   position: sticky;
     
     @media all and (max-width: 600px) {
     flex-direction: row;
@@ -359,7 +360,6 @@ hr {
 
   & > .backlinks-container {
         order: 2;
-        position: sticky;
         overflow: visible;
         background: rgba(255, 255, 255, 1);
         box-sizing: border-box;
@@ -380,8 +380,7 @@ hr {
 
   & #graph-container {
     order: 1;
-    position: sticky;
-    overflow: visible;
+    overflow: auto;
     background: rgba(255, 255, 255, 1);
     border: rgba(255, 255, 255, 1) 1px solid;
     box-sizing: border-box;
