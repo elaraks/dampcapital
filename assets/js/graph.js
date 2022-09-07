@@ -267,4 +267,4 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     node.attr("cx", (d) => d.x).attr("cy", (d) => d.y)
     labels.attr("x", (d) => d.x).attr("y", (d) => d.y)
   })
-}
+    }

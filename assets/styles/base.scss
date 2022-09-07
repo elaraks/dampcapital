@@ -338,6 +338,8 @@ hr {
   }
 
   & > .backlinks-container {
+          background-color: "#ffffff";
+
     & > ul {
       list-style: none;
       padding: 0;
@@ -394,6 +396,8 @@ header {
   & > h2 {
     font-size: 1.5em; 
     align-items: center;
+    margin-right: 35em;
+
   }
 
   & > nav {
