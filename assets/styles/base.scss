@@ -327,7 +327,7 @@ hr {
 
 
 
-.sidebarl {
+#sidebarl {
   display: flex; 
   flex-direction: column;
   gap: 2em;
@@ -344,7 +344,7 @@ hr {
 
 }
 
-.sidebarr {
+#sidebarr {
    position: fixed;
    display: flex; 
    flex-direction: column;
@@ -656,11 +656,6 @@ header {
     opacity: 1;
     visibility: visible;
   }
-}
-
-#wrapper {
-    margin-right: auto;
-    margin-left: auto;
 }
 
 .popover {
