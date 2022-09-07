@@ -10,7 +10,7 @@
     --g-node-active: var(--primary);
     --g-node-inactive: var(--visited);
     --g-link: var(--outlinegray);
-    --g-link-active: rgba(0, 0, 0);
+    --g-link-active: rgba(0, 0, 0, 0.8);
   }
 </style>
 {{ $js := resources.Get "js/graph.js" | resources.Fingerprint "md5" }}
