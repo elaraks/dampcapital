@@ -1,10 +1,10 @@
 // Replace this with your own font imports!
-@import url('https://fonts.googleapis.com/css?family=Rubik');
-@import url('https://fonts.googleapis.com/css?family=Old Standard TT');
+@import url('https://fonts.googleapis.com/css?family=Urbanist:300');
+@import url('https://fonts.googleapis.com/css?family=Major Mono Display');
 :root {
-  --font-body: "Rubik", sans-serif;
-  --font-header: "Old Standard TT", serif;
-  --font-mono: "Rubik", sans-serif;
+  --font-body: "Urbanist", sans-serif;
+  --font-header: "Major Mono Display", sans-serif;
+  --font-mono: "Urbanist", sans-serif;
 }
 
 // typography
@@ -191,7 +191,7 @@ blockquote {
 article {
    background: rgba(255, 255, 255, 0.9);
    padding: 2vh 3vw;
-   font-family: "Rubik", sans-serif;  
+   font-family: "Urbanist", sans-serif;  
     
   & > h1 {
    margin-top: 2em;
@@ -342,7 +342,7 @@ hr {
   }
 
   & > .backlinks-container {
-          background: rgba(255, 255, 255, 1);
+          
 
     & > ul {
       list-style: none;
@@ -350,19 +350,23 @@ hr {
       margin: 0;
 
       & > li {
-        margin: 0.5em 0;
+        background: rgba(255, 255, 255, 1);
         padding: 0.25em 1em;
-        border: var(--outlinegray) 1px solid;
-        border-radius: 5px
+        border-radius: 5px;
+        background: rgba(255, 255, 255, 1);
+        box-sizing: border-box;
+        box-shadow: 0 0 0 10px hsl(0, 0%, 85%);
+        margin: 0.5em 0;
       }
     }
   }
 
   & #graph-container {
     background: rgba(255, 255, 255, 1);
-    border: var(--outlinegray) 1px solid;
+    border: rgba(255, 255, 255, 1) 1px solid;
     border-radius: 5px;
     box-sizing: border-box;
+    box-shadow: 0 0 0 10px hsl(0, 0%, 85%);
     min-height: 250px;
     margin: 0.5em 0;
 
