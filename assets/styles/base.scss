@@ -392,13 +392,13 @@ header {
   & > h1 {
     font-size: 2em;
     background: rgba(255, 255, 255, 0.4);
-    padding: 1em;
+    padding: 10px;
   }
     
   & > h2 {
     font-size: 1em; 
     background: rgba(255, 255, 255, 0.4);
-    padding: 1em;
+    padding: 10px;
     margin: 1em 1em 1em;
   }
 
@@ -643,6 +643,9 @@ header {
 
 #contact_buttons ul {
   list-style-type: none;
+  background: rgba(255, 255, 255, 0.4);
+  padding: 10px;
+
 
   li {
     display: inline-block;
