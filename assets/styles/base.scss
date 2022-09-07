@@ -1,9 +1,9 @@
 // Replace this with your own font imports!
-@import url('https://elaraks.github.io/dampcapital/Porpora-Regular-400.ttf');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,200');
 :root {
-  --font-body: "Porpora";
-  --font-header: "Garamond";
-  --font-mono: "Porpora"
+  --font-body: "Montserrat", sans-serif;
+  --font-header: "Garamond", serif;
+  --font-mono: "Montserrat", sans-serif;
 }
 
 // typography
@@ -29,14 +29,17 @@ html {
 
 
 body {
-  background:url('https://elaraks.github.io/dampcapital/dampheat.jpg') center center no-repeat; 
+  background:url('https://elaraks.github.io/dampcapital/dampheat.jpg') no-repeat center center; 
   background-size: cover;
+  position: sticky; 
+  min-height: 100%; 
+  max-width: 
   margin: 0 auto;
   height: 100vh;
   width: 100vw;
   box-sizing: border-box;
   background-color: var(--light);
-  min-height: 100%;
+
 
   @media (min-width: 820px) {
     font-size: 1.2rem;

@@ -6,7 +6,7 @@ title: Regina Road
 
 Council housing in 
 
-in [Croydon](providers/croydon)
+in [Croydon](providers/Croydon)
 
 ### Timeline
 
