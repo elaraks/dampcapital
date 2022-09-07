@@ -195,7 +195,7 @@ article {
    font-family: "Urbanist", sans-serif;  
     
   & > h1 {
-   margin-top: 2em;
+   margin-top: 1em;
    font-size: 2em;
   }
   
@@ -416,7 +416,7 @@ hr {
   & > .backlinks-container {
         background: rgba(255, 255, 255, 1);
         box-sizing: border-box;
-        box-shadow: 0 0 0 15px rgba(255, 255, 255, 0.4); 
+        box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.4); 
         margin: 0.5em 0;
           
 
@@ -435,7 +435,7 @@ hr {
     background: rgba(255, 255, 255, 1);
     border: rgba(255, 255, 255, 1) 1px solid;
     box-sizing: border-box;
-    box-shadow: 0 0 0 15px rgba(255, 255, 255, 0.4); 
+    box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.4); 
     min-height: 250px;
     margin: 0.5em 0;
 
