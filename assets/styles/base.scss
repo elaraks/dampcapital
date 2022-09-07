@@ -348,7 +348,7 @@ hr {
    display: flex; 
    flex-direction: column;
    width: 32%;
-   position: fixed;
+   position: sticky;
     
     @media all and (max-width: 600px) {
     flex-direction: row;
