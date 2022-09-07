@@ -327,11 +327,11 @@ hr {
 
 
 
-#sidebarl {
+.sidebarl {
   display: flex; 
   flex-direction: column;
   gap: 2em;
-  flex: 2;
+  width: 66%;
   float: left;
     
   @media all and (max-width: 600px) {
@@ -344,11 +344,11 @@ hr {
 
 }
 
-#sidebarr {
+.sidebarr {
    position: fixed;
    display: flex; 
    flex-direction: column;
-   flex: 1;
+   width: 34%;
    float: right;
     
     @media all and (max-width: 600px) {
