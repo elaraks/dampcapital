@@ -338,7 +338,7 @@ hr {
   }
     
   & > * {
-    flex: 1 1 0;
+    flex-grow: 2;
   }
 
 }
@@ -354,7 +354,7 @@ hr {
   }
     
     & > * {
-    flex: 0 0 1;
+    flex-grow: 1;
   }
 
   & > .backlinks-container {
