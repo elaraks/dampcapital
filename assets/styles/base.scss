@@ -335,7 +335,6 @@ hr {
 }
 
 .sidebarl {
-  flex-grow: 2;
   float: left;
   order: 1;
 
@@ -344,13 +343,12 @@ hr {
   }
     
   & > * {
-  flex: 1;
+  flex: 2;
   }
 
 }
 
 .sidebarr {
-   flex-grow: 1;
    float: left;
    flex-shrink: 0;
    order: 2;
