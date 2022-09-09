@@ -354,9 +354,6 @@ hr {
    flex-shrink: 0;
    flex: 1;
     
-    @media all and (max-width: 100%) {
-    flex-direction: column;
-  }
     
     & > * {
     flex: 1;
