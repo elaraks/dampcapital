@@ -24,6 +24,7 @@ html {
 .singlePage {
   padding: 2em 2em;
   flex-flow: column wrap;
+  width: 100%;
     
   @media all and (max-width: 1200px) {
     padding: 25px 25px;
@@ -331,6 +332,7 @@ hr {
 
 .sidebarl {
   display: flex; 
+  flex-shrink: 0;
   flex-direction: column;
   width: 66%;
   float: left;
