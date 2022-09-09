@@ -352,7 +352,8 @@ hr {
 
 .sidebarr {
    float: right;
-   position: fixed;
+   top: 0;
+   position: sticky;
    flex-grow: 0;
    width: 95%;
    flex: 1;
