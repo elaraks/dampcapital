@@ -23,7 +23,7 @@ html {
 
 .singlePage {
   padding: 2em 2em;
-  display: flex;
+  display:flex;
   flex-flow: column wrap;
   width: 95%;
     
@@ -343,7 +343,10 @@ hr {
   @media all and (max-width: 600px) {
     flex-direction: row;
   }
-
+    
+  & > * {
+  flex: 2;
+  }
 
 }
 
@@ -354,11 +357,14 @@ hr {
    float: right;
    flex: 1;
    flex-shrink: 0;
-    
     @media all and (max-width: 100%) {
     flex-direction: row;
   }
     
+    & > * {
+    flex: 1;
+  }
+
   & > .backlinks-container {
         order: 2;
         overflow: auto;
@@ -396,6 +402,7 @@ hr {
 
     }
   }
+
 
 }
 
