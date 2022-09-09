@@ -350,8 +350,7 @@ hr {
 }
 
 .sidebarr {
-   float: right;
-   width: 40%;
+   float: left;
    flex-shrink: 0;
    flex: 1;
     
@@ -361,6 +360,23 @@ hr {
     
     & > * {
     flex: 1;
+  }
+    
+ & #graph-container {
+    order: 1;
+    overflow: auto;
+    position: sticky;
+    background: rgba(255, 255, 255, 1);
+    border: rgba(255, 255, 255, 1) 1px solid;
+    box-sizing: border-box;
+    box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.4); 
+    min-height: 300px;
+    margin: 0.5em 0;
+
+    & > svg {
+      margin-bottom: -5px;
+
+    }
   }
 
   & > .backlinks-container {
@@ -383,24 +399,6 @@ hr {
       }
     }
   }
-
-  & #graph-container {
-    order: 1;
-    overflow: auto;
-    position: sticky;
-    background: rgba(255, 255, 255, 1);
-    border: rgba(255, 255, 255, 1) 1px solid;
-    box-sizing: border-box;
-    box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.4); 
-    min-height: 300px;
-    margin: 0.5em 0;
-
-    & > svg {
-      margin-bottom: -5px;
-
-    }
-  }
-
 
 }
 
