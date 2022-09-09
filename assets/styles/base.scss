@@ -192,6 +192,43 @@ blockquote {
   }
 }
 
+article {
+   background: rgba(255, 255, 255, 0.9);
+   padding: 2vh 3vw;
+   font-family: "Urbanist", sans-serif;  
+    
+  & > h1 {
+   margin-top: 1em;
+   font-size: 2em;
+  }
+  
+  & > .meta {
+    margin: 0 0 1em 0;
+    opacity: 0.7;
+  }
+
+
+  & a {
+    font-weight: 600;
+
+    &.internal-link {
+      text-decoration: none;
+      background-color: transparentize(#8f9fa9, 0.85);
+      padding: 0 0.1em;
+      margin: auto -0.1em;
+      border-radius: 3px;
+
+      &.broken {
+        opacity: 0.5;
+        background-color: transparent; 
+      }
+    }
+  }
+  
+  & p {
+    overflow-wrap: anywhere;
+  }
+}
 
 .tags {
   list-style: none;
