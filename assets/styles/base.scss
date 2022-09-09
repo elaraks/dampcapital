@@ -362,7 +362,6 @@ hr {
   }
     
  & #graph-container {
-    order: 2;
     overflow: auto;
     position: sticky;
     background: rgba(255, 255, 255, 1);
@@ -379,7 +378,6 @@ hr {
   }
 
   & > .backlinks-container {
-        order: 1;
         overflow: auto;
         position: sticky;
         background: rgba(255, 255, 255, 1);
