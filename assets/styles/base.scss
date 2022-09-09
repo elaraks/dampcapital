@@ -353,7 +353,7 @@ hr {
    width: 30%;
    float: right;
     
-    @media all and (max-width: 1200px) {
+    @media all and (max-width: 100%) {
     flex-direction: row;
   }
     
