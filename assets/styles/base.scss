@@ -352,6 +352,7 @@ hr {
 
 .sidebarr {
    float: right;
+   position: sticky;
    flex-grow: 0;
    width: 95%;
    flex: 1;
@@ -362,7 +363,6 @@ hr {
   }
     
  & #graph-container {
-    overflow: auto;
     position: sticky;
     background: rgba(255, 255, 255, 1);
     border: rgba(255, 255, 255, 1) 1px solid;
@@ -383,7 +383,7 @@ hr {
         background: rgba(255, 255, 255, 1);
         box-sizing: border-box;
         box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.4); 
-        margin: 0.5em 0;
+        margin: 0.5em 0.5em;
           
 
     & > ul {
