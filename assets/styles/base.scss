@@ -337,7 +337,7 @@ hr {
 .sidebarl {
   float: left;
   width: 60%;
-  order: 1;
+  flex: 2;
 
   @media all and (max-width: 600px) {
     flex-direction: row;
@@ -353,7 +353,7 @@ hr {
    float: left;
    width: 40%;
    flex-shrink: 0;
-   order: 2;
+   flex: 1;
     
     @media all and (max-width: 100%) {
     flex-direction: row;
