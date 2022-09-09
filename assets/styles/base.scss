@@ -336,6 +336,7 @@ hr {
 
 .sidebarl {
   float: left;
+  width: 60%;
   order: 1;
 
   @media all and (max-width: 600px) {
@@ -350,6 +351,7 @@ hr {
 
 .sidebarr {
    float: left;
+   width: 40%;
    flex-shrink: 0;
    order: 2;
     
