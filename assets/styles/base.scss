@@ -329,7 +329,7 @@ hr {
 
 .main {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
   margin: 0;
 }
@@ -356,7 +356,7 @@ hr {
    flex: 1;
     
     @media all and (max-width: 100%) {
-    flex-direction: row;
+    flex-direction: column;
   }
     
     & > * {
