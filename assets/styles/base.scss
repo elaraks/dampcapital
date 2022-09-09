@@ -336,14 +336,13 @@ hr {
   flex-direction: column;
   width: 65%;
   float: left;
+  flex: 2;
+
     
   @media all and (max-width: 600px) {
     flex-direction: row;
   }
-    
-  & > * {
-    flex: 2;
-  }
+
 
 }
 
@@ -352,15 +351,13 @@ hr {
    flex-direction: column;
    flex-grow: 1;
    float: right;
+   flex: 1;
+   flex-shrink: 0;
     
     @media all and (max-width: 100%) {
     flex-direction: row;
   }
     
-    & > * {
-    flex: 1;
-  }
-
   & > .backlinks-container {
         order: 2;
         overflow: auto;
@@ -398,7 +395,6 @@ hr {
 
     }
   }
-
 
 }
 
