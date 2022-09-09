@@ -358,14 +358,13 @@ hr {
   }
     
     & > * {
-    flex: 2;
+    flex: 1;
   }
 
   & > .backlinks-container {
         order: 2;
         overflow: auto;
         position: sticky;
-        width: 100%;
         background: rgba(255, 255, 255, 1);
         box-sizing: border-box;
         box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.4); 
@@ -387,7 +386,6 @@ hr {
     order: 1;
     overflow: auto;
     position: sticky;
-    width: 100%;
     background: rgba(255, 255, 255, 1);
     border: rgba(255, 255, 255, 1) 1px solid;
     box-sizing: border-box;
