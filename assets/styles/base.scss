@@ -353,7 +353,7 @@ hr {
 .sidebarr {
    float: right;
    flex-grow: 0;
-   width: 90%;
+   width: 95%;
    flex: 1;
     
     
@@ -362,7 +362,7 @@ hr {
   }
     
  & #graph-container {
-    order: 1;
+    order: 2;
     overflow: auto;
     position: sticky;
     background: rgba(255, 255, 255, 1);
@@ -379,7 +379,7 @@ hr {
   }
 
   & > .backlinks-container {
-        order: 2;
+        order: 1;
         overflow: auto;
         position: sticky;
         background: rgba(255, 255, 255, 1);
