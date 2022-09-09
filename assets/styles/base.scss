@@ -406,7 +406,7 @@ hr {
 .page-end {
   display: flex;
   flex-direction: row;
-  gap: 2em;
+  gap: 10em;
 
   @media all and (max-width: 1200px) {
     flex-direction: column;
