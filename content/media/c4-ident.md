@@ -4,3 +4,4 @@ tags:
 - has-video
 ---
 
+<img src="https://elaraks.github.io/dampcapital/ident.mp4"/>
