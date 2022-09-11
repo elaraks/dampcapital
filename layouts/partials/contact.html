@@ -6,9 +6,9 @@
     <footer>    <ul>
         {{ $name := $data.name | default $.Site.Data.config.name }}
         {{ $year := dateFormat "2006" now }}
-        <p>{{ i18n "copyright" (dict "name" $name "year" $year) | safeHTML}} | <li><a href="{{ $.Site.BaseURL}}">{{ i18n "home" }}</a></li>
+        <p>{{ i18n "copyright" (dict "name" $name "year" $year) | safeHTML}} | <a href="{{ $.Site.BaseURL}}">{{ i18n "home" }}</a>
             {{- range $data.links | default $.Site.Data.config.links -}}
-            <li><a href="{{.link}}">{{.link_name}}</a></li>                   {{end}}   
+            <a href="{{.link}}">{{.link_name}}</a>                   {{end}}   
         </ul>
     </footer>
 </div>
