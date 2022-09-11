@@ -8,6 +8,9 @@ title: Wornington Green
 
 in [Kensington & Chelsea](providers/kensington-and-chelsea)
 
+
+[Regeneration](cause-effect-affect/regeneration)
+
 ### Timeline
 
 - 

@@ -6,7 +6,7 @@ title: Blake Court
 
 Council housing in [Brent](providers/Brent)
 
-Proposed [[mixed tenure redevelopment]]
+Proposed [mixed tenure redevelopment regeneration](cause-effect-affect/regeneration)
 
 ### Timeline
 

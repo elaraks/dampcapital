@@ -6,6 +6,7 @@ title: Central Hill Estate
 
 Council housing in [Lambeth](providers/Lambeth).
 
+[regen](cause-effect-affect/regeneration)
 ### Timeline
 
 - 19
