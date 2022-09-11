@@ -309,7 +309,15 @@ code {
 }
 
 footer {
-  margin-top: 0.5em;
+  margin-top: -3em;
+  text-align: center;
+  & ul {
+    padding-left: 0;
+  } 
+}
+
+footerind {
+  margin-top: 2em;
   text-align: center;
   & ul {
     padding-left: 0;
