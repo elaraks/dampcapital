@@ -6,7 +6,7 @@ title: Wornington Green
 
 [Catalyst](providers/catalyst), soon to be [Peabody](providers/peabody)
 
-in [[Kensington & Chelsea]]
+in [Kensington & Chelsea](providers/kensington-and-chelsea)
 
 ### Timeline
 
