@@ -5,5 +5,5 @@ tags:
 ---
 
 <video controls width="100%">
-<csource scr="https://elaraks.github.io/dampcapital/ident.mp4" />
+<source scr="https://elaraks.github.io/dampcapital/ident.mp4" type="video/mp4" />
 </video>
