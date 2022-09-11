@@ -309,7 +309,7 @@ code {
 }
 
 footer {
-  margin-top: -0.5em;
+  margin-top: -1em;
   text-align: center;
   & ul {
     padding-left: 0;
@@ -389,7 +389,7 @@ hr {
 
     & > ul {
       list-style: none;
-      padding: 0;
+      padding: 0.5em;
       margin: 0;
 
       & > li {
@@ -717,8 +717,8 @@ header {
 
 #contact_buttons ul {
   list-style-type: none;
-  background: rgba(255, 255, 255, 0.4);
-  padding: 1em;
+  background: rgba(255, 255, 255, 0.6);
+  padding: 0.2em;
 
 
   li {
