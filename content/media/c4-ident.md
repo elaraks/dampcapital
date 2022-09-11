@@ -4,5 +4,5 @@ tags:
 - has-video
 ---
 
-<video controls scr="https://elaraks.github.io/dampcapital/ident.mp4">
+<video scr="https://elaraks.github.io/dampcapital/ident.mp4">
 </video>
