@@ -4,4 +4,4 @@ tags:
 - has-video
 ---
 
-<iframe scr="https://elaraks.github.io/dampcapital/ident.mp4"> </iframe>
+<img scr="https://elaraks.github.io/dampcapital/ident.mp4"/>
