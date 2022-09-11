@@ -309,7 +309,7 @@ code {
 }
 
 footer {
-  margin-top: 1em;
+  margin-top: 0.2em;
   text-align: center;
   & ul {
     padding-left: 0;
@@ -379,7 +379,7 @@ hr {
   }
 
   & > .backlinks-container {
-        overflow: auto;
+        overflow-wrap: anywhere;
         position: sticky;
         background: rgba(255, 255, 255, 1);
         box-sizing: border-box;
