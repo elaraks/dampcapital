@@ -4,4 +4,5 @@ tags:
 - has-video
 ---
 
-<video autoplay="true" loop="true" src="https://elaraks.github.io/dampcapital/ident.mp4"/>
+<video controls> <source scr="https://elaraks.github.io/dampcapital/ident.mp4"/>
+</video>
