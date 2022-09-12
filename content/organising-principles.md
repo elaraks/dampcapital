@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Organising Principles
-permalink: /organising-principles
 ---
 
 ### Navigation
