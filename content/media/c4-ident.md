@@ -4,5 +4,5 @@ tags:
 - has-video
 ---
 
-{{< video src="https://elaraks.github.io/dampcapital/ident.mp4" type="video/mp4" >}}
+{{< vimeo 748750964 >}}
 
