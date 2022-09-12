@@ -19,9 +19,9 @@ tags:
 
 [![video](https://elaraks.github.io/dampcapital/ident.mp4)](https://elaraks.github.io/dampcapital/ident.mp4)
 
-{{< youtube ZGMWilHP2aA >}}
+{{< youtube _lfOHndPQFw >}}
 
 ff
 
-{{< video src="/ident.mp4" type="video/mp4" preload="auto" >}}
+{{< video src="https://elaraks.github.io/dampcapital/ident.mp4" type="video/mp4" preload="auto" >}}
 
