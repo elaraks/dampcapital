@@ -4,10 +4,6 @@ tags:
 - has-video
 ---
 
-<video autoplay loop muted>
-<source scr="ident.mp4" type="video/mp4"/>
-</video>
-
 <video controls loop muted>
 <img scr="https://elaraks.github.io/dampcapital/ident.mp4" type="video/mp4"/>
 </video>
