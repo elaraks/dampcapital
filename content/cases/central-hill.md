@@ -17,8 +17,10 @@ Central Hill is the largest of Lambeth’s five estates earmarked for demolition
 
 It was first earmarked for potential redevelopment in a December 2014 Cabinet decision.
 
-Lambeth says that it is demolishing the estate because the cost of refurbishing the existing homes is £44,000 per dwelling when its average cost for other estates is only £16,000 and that the Council simply doesn’t have the £18.5m required.
+Lambeth says that it is demolishing the estate because the cost of refurbishing the existing homes is £44,000 per dwelling when its average cost for other estates is only £16,000 and that the Council simply doesn’t have the £18.5m required. 
 
+Lambeth says that it is demolishing the estate because the cost of refurbishing the existing homes is £44,000 per dwelling when its average cost for other estates is only £16,000 and that the Council simply doesn’t have the £18.5m required. 
+Lambeth says that it is demolishing the estate because the cost of refurbishing the existing homes is £44,000 per dwelling when its average cost for other estates is only £16,000 and that the Council simply doesn’t have the £18.5m required. 
 
 
 ## Timeline
