@@ -22,3 +22,6 @@ tags:
 {{< youtube ZGMWilHP2aA >}}
 
 ff
+
+{{< video src="/ident.mp4" type="video/mp4" preload="auto" >}}
+
