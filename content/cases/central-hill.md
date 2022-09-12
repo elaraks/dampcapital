@@ -2,17 +2,28 @@
 title: Central Hill Estate
 ---
 
-# Summary
+## Summary
 
-Council housing in [Lambeth](providers/Lambeth).
+Council housing in [Lambeth](providers/Lambeth). 
 
 [regen](cause-effect-affect/regeneration)
+
+hitheiweq
+
+hgh 
+476 homes are earmarked for demolition on Lambeth’s Central Hill estate.
+
+Central Hill is the largest of Lambeth’s five estates earmarked for demolition.
+
+It was first earmarked for potential redevelopment in a December 2014 Cabinet decision.
+
+Lambeth says that it is demolishing the estate because the cost of refurbishing the existing homes is £44,000 per dwelling when its average cost for other estates is only £16,000 and that the Council simply doesn’t have the £18.5m required.
+
+
 
 ## Timeline
 
 - 19
-
-### Documentation
 
 # Testimony
 
@@ -20,3 +31,9 @@ Council housing in [Lambeth](providers/Lambeth).
 - [Survey response](testimony/SR102)
 
 ## Media
+### News articles
+### Social media posts
+### Misc
+
+## Documentation
+
