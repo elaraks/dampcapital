@@ -1,4 +1,6 @@
-let link = window.open(url, '_blank')();
+var url = document.location.href;
+let link =
+ window.open(url, '_blank');
 
 import {
   apply,
