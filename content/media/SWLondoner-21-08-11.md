@@ -12,7 +12,7 @@ tags:
 
 Article in SW Londoner, reporting on the proposed demolition of the Central Hill estate in Lambeth, and opposition to it. Those opposing the plans (including residents and councillors) argue that conditions on the estate have been [deliberately produced in order to justify the regeneration project](cause-effect-affect/managed-decline). [View in form PDF here](media/21-08-11-SWLondonder-Central-Hill.pdf).
 
-<a onclick="window.open(https://elaraks.github.io/dampcapital/images/media/21-08-11-SWLondonder-Central-Hill.pdf, '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">View in form PDF here</a>. 
+<a href="https://elaraks.github.io/dampcapital/images/media/21-08-11-SWLondonder-Central-Hill.pdf" target="_tab">View in form PDF here</a>. 
 
 
 
