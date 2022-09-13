@@ -1,5 +1,7 @@
 var url = document.location.href;
-let link = window.open(url, "_blank")
+function openInNewTab(url) {
+ window.open(url, '_blank').focus();
+}
 
 import {
   apply,
