@@ -18,3 +18,5 @@ description:
     Housing conditions as accumulative disposession.
 page_title: 
     "Damp capital"
+favicon:
+  - { rel: "shortcut icon", href: "map.png", type: "image/png" }

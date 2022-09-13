@@ -13,4 +13,5 @@
   rel="noopener" class="internal-link{{if $nonexistent}} broken{{end}}"
   data-src="{{$rooted}}">{{- .Text | safeHTML -}}
 </a>
+<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if or (strings.HasPrefix .Destination "http") (strings.HasSuffix .Destination ".pdf") }} target="_blank"{{ end }}>{{ .Text }}</a>
 {{- end -}}
