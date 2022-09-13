@@ -13,7 +13,5 @@
   rel="noopener" class="internal-link{{if $nonexistent}} broken{{end}}"
   data-src="{{$rooted}}">{{- .Text | safeHTML -}}
 </a>
-{{$internal := strings.HasSuffix  $dashedurl ".pdf"}}
-{{- if $internal -}}
-<a href="{{ $dashedurl }}" rel="noopener">{{ .Text | safeHTML }}</a>
+<a href="{{ .Destination | safeURL }}" if (strings.HasSuffix .Destination ".pdf") }} rel="noopener">{{ .Text | safeHTML }}</a>
 {{- end -}}
