@@ -1,0 +1,1 @@
+let link = window.open(url, "_blank")
