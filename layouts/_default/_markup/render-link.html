@@ -1,8 +1,11 @@
 {{$trimmed := strings.TrimSuffix ".md" (.Destination | safeURL)}}
 {{$dashedurl := replace $trimmed "%20" "-" }}
 {{$external := strings.HasPrefix $dashedurl "http" }}
+{{$internal := strings.HasSuffix $dashedurl ".pdf"}}
 {{- if $external -}}
 <a href="{{ $dashedurl }}" rel="noopener">{{ .Text | safeHTML }}</a>
+{{- if $internal -}}
+<a href="{{ $dashedurl }}" rel="noopener">{{ .Text | safeURL }}</a>
 {{- else -}}
 {{$spacedurl := replace $trimmed "%20" " " }}
 {{$fixedUrl := (cond (hasPrefix $spacedurl "/") $spacedurl (print "/" $spacedurl)) | urlize}}
@@ -13,8 +16,5 @@
   rel="noopener" class="internal-link{{if $nonexistent}} broken{{end}}"
   data-src="{{$rooted}}">{{- .Text | safeHTML -}}
 </a>
-<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}
-   {{if strings.HasSuffix .Destination ".pdf"}} rel="noopener"{{end}}
-   >{{ .Text | safeURL }}</a>
 {{- end -}}
 

@@ -5,17 +5,16 @@ tags:
 - image
 - annotated-pdf
 ---
-{{% center %}}
 <h4><em>"The council have run down the estate physically and verbally, and they’ve run down the community."</em></h4>
 - Sabine Mairey
-</p>{{% /center %}}
+</p>
 
 
 Article in SW Londoner, reporting on the proposed demolition of the Central Hill estate in Lambeth, and opposition to it. Those opposing the plans (including residents and councillors) argue that conditions on the estate have been [deliberately produced in order to justify the regeneration project](cause-effect-affect/managed-decline). 
 
-[View in form PDF here](media/21-08-11-SWLondonder-Central-Hill.pdf).
+[View in form PDF here](/images/media/21-08-11-SWLondonder-Central-Hill.pdf).
 
-[View in form PDF here](/21-08-11-SWLondonder-Central-Hill.pdf).
+[View in form PDF here](21-08-11-SWLondonder-Central-Hill.pdf).
 
 <a href="https://elaraks.github.io/dampcapital/21-08-11-SWLondonder-Central-Hill.pdf" target="_blank">View in form PDF here</a>. 
 
