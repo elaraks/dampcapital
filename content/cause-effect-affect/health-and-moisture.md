@@ -19,4 +19,4 @@ Report on the relationship between health and moisture in buildings, released by
 <img src="https://elaraks.github.io/dampcapital/health-and-moisture-18.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/health-and-moisture-19.jpg" width="50%"/>
 <img src="https://elaraks.github.io/dampcapital/health-and-moisture-20.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/health-and-moisture-21.jpg" width="50%"/>
 <img src="https://elaraks.github.io/dampcapital/health-and-moisture-22.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/health-and-moisture-24.jpg" width="50%"/>
-<a href="https://ukcmb.org/2019/10/27/health-and-moisture-in-buildings-report/" target="_blank"><em>Source: UKCMB, 2019</em></a>. 
+<p align=center><sub><a href="https://ukcmb.org/2019/10/27/health-and-moisture-in-buildings-report/" target="_blank"><em>Source: UKCMB, 2019</em></a>.</sub></p>
