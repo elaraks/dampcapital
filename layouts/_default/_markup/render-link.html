@@ -1,10 +1,7 @@
 {{$trimmed := strings.TrimSuffix ".md" (.Destination | safeURL)}}
 {{$dashedurl := replace $trimmed "%20" "-" }}
 {{$external := strings.HasPrefix $dashedurl "http" }}
-{{$internal := strings.HasSuffix $dashedurl ".pdf"}}
 {{- if $external -}}
-{{- or -}}
-{{- if $internal -}}
 <a href="{{ $dashedurl }}" rel="noopener">{{ .Text | safeHTML }}</a>
 {{- else -}}
 {{$spacedurl := replace $trimmed "%20" " " }}
