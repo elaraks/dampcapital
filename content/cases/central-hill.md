@@ -40,7 +40,7 @@ ff
 - [31/01/22, My London](media/MyLondon-22-01-31)
 - [01/02/22, the Mirror](media/Mirror-22-02-01)
 - [11/08/21, Architects Journal](media/AJ-22-02-23)
-- [14/06/22, London News Online](media/SWLondoner-22-06-14)
+- [14/06/22, London News Online](media/LNO-22-06-14)
 
 ### Social media posts
 ### Misc

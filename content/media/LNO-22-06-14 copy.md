@@ -9,6 +9,4 @@ tags:
 Article in London News Online, reporting petition against the redevelopment of the Central Hill Estate, Lambeth. 
 
 <img src="https://elaraks.github.io/dampcapital/22-06-14-LondonNewsOnline-Central-Hill-1.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/22-06-14-LondonNewsOnline-Central-Hill-2.jpg" width="50%"/>
-<p align=center><sub><a href="https://londonnewsonline.co.uk/our-community-is-being-taken-away-from-us-claim-central-hill-estate-residents/" target="_blank"><em>Source: SW Londoner, 2021</em></a>.</sub>
-<a href="https://elaraks.github.io/dampcapital/images/media/22-06-14-LondonNewsOnline-Central-Hill.pdf/">Right click and select 'Open link in new tab' to view as PDF</a>. 
-</p>
+<p align=center><sub><a href="https://londonnewsonline.co.uk/our-community-is-being-taken-away-from-us-claim-central-hill-estate-residents/" target="_blank"><em>Source: SW Londoner, 2021</em></a>.</sub><br><a href="https://elaraks.github.io/dampcapital/images/media/22-06-14-LondonNewsOnline-Central-Hill.pdf/">Right click and select 'Open link in new tab' to view as PDF</a>.</p>
