@@ -1,7 +1,3 @@
-function openInNewTab(url) {
- window.open(url, '_blank').focus();
-}
-
 import {
   apply,
   navigate,
@@ -27,4 +23,8 @@ export const attachSPARouting = (init, rerender) => {
     render()
   })
   window.addEventListener("million:navigate", render)
+}
+
+function openInNewTab(url) {
+ window.open(url, '_blank').focus();
 }
