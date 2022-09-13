@@ -3,9 +3,9 @@
 {{$external := strings.HasPrefix $dashedurl "http" }}
 {{$internal := strings.HasSuffix $dashedurl ".pdf"}}
 {{- if $external -}}
-<a href="{{ $dashedurl }}" rel="noopener">{{ .Text | safeHTML }}</a>
+{{- or -}}
 {{- if $internal -}}
-<a href="{{ $dashedurl }}" rel="noopener">{{ .Text | safeURL }}</a>
+<a href="{{ $dashedurl }}" rel="noopener">{{ .Text | safeHTML }}</a>
 {{- else -}}
 {{$spacedurl := replace $trimmed "%20" " " }}
 {{$fixedUrl := (cond (hasPrefix $spacedurl "/") $spacedurl (print "/" $spacedurl)) | urlize}}
