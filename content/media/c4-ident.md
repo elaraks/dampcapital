@@ -1,7 +1,7 @@
 ---
 title: "Channel 4 Aylesbury ident"
 tags:
-- has-video
+- video
 ---
 
 {{< vimeo 748750964 >}}

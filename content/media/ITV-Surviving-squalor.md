@@ -1,7 +1,7 @@
 ---
 title: "Surviving Squalor: Britain's Housing Shame"
 tags:
-- has-video
+- video
 ---
 
 ITV's hour-long broadcast *Surviving Squalor: Brtiain's Housing Shame* aired on 12th September, 2021. This formed part of a longer, ongoing investigation, lead by political correspondent Daniel Hewitt, which started in late 2020 and was first reported on in late March 2021.  
