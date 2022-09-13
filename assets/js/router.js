@@ -24,7 +24,3 @@ export const attachSPARouting = (init, rerender) => {
   })
   window.addEventListener("million:navigate", render)
 }
-
-function openInNewTab(url) {
- window.open(url, '_blank').focus();
-}
