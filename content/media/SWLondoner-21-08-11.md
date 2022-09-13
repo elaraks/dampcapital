@@ -18,6 +18,7 @@ Article in SW Londoner, reporting on the proposed demolition of the Central Hill
 
 <a href="https://elaraks.github.io/dampcapital/21-08-11-SWLondonder-Central-Hill.pdf" target="_blank">View in form PDF here</a>. 
 
+[View in form PDF here](https://elaraks.github.io/dampcapital/21-08-11-SWLondonder-Central-Hill.pdf){target="_blank"}.
 
 
 
