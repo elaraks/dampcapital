@@ -1,3 +1,6 @@
+var url = document.location.href;
+let link = window.open(url, "_blank")
+
 import {
   apply,
   navigate,
