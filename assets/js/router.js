@@ -1,3 +1,6 @@
+let link = window.open(url, "_blank");
+  link.opener = null;
+
 import {
   apply,
   navigate,
