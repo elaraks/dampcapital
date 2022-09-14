@@ -1,12 +1,12 @@
 // Add your own CSS here!
 
 :root {
-  --light: hsl(60, 100%, 95%);
+  --light: rgba(188, 183, 158, 0.95);
   --dark: #141021;
   --secondary: rgba(80, 80, 80, 1);
-  --tertiary: #84a59d;
+  --tertiary: rgba(119, 137, 120, 1);
   --visited: rgba(78, 78, 78, 0.2);
-  --primary: #84a59d;
+  --primary: rgba(119, 137, 120, 1);
   --gray: rgba(78, 78, 78, 0.7);
   --lightgray: #f0f0f0;
   --outlinegray: rgba(78, 78, 78, 0.2);
@@ -14,10 +14,10 @@
 }
 
 [saved-theme="dark"] {
-  --light: hsl(60, 100%, 95%);
+  --light: rgba(188, 183, 158, 0.95);
   --dark: #141021;
   --secondary: rgba(80, 80, 80, 1);
-  --tertiary: #84a59d;
+  --tertiary: rgba(119, 137, 120, 1);
   --visited: rgba(78, 78, 78, 0.2);
   --primary: #84a59d;
   --gray: rgba(78, 78, 78, 0.7);
