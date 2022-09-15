@@ -2,7 +2,6 @@
 title: "Health and Moisture in Buildings"
 tags: 
 - report
-- image
 - annotated-pdf
 ---
 
