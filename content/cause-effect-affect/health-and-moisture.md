@@ -6,7 +6,9 @@ tags:
 - annotated-pdf
 ---
 
-Report on the relationship between health and moisture in buildings, released by the UK Centre for Moisture in Buildings. <a href="https://elaraks.github.io/dampcapital/images/health/health-and-moisture.pdf" target="_blank">View in form PDF here</a>. 
+Report on the relationship between health and moisture in buildings, released by the UK Centre for Moisture in Buildings. 
+
+<a href="https://elaraks.github.io/dampcapital/images/health/health-and-moisture.pdf" target="_blank">Right click and select 'Open link in new tab' to view as PDF</a>. 
 
 <img src="https://elaraks.github.io/dampcapital/health-and-moisture-01.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/health-and-moisture-03.jpg" width="50%"/>
 <img src="https://elaraks.github.io/dampcapital/health-and-moisture-04.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/health-and-moisture-05.jpg" width="50%"/>
