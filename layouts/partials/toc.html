@@ -1,4 +1,4 @@
-{{ if (and $.Site.Data.config.enableToc (ne .Params.enableToc false) (gt .WordCount 150)) }}
+{{ if (and $.Site.Data.config.enableToc (ne .Params.enableToc false) (gt .WordCount 100)) }}
 <aside class="mainTOC">
     <details {{ if $.Site.Data.config.openToc }}open {{ end }}>
         <summary>{{ i18n "toc" }}</summary>
