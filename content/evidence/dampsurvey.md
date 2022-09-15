@@ -11,7 +11,7 @@ In order to better understand damp housing from a technical perspective, I conta
 Simon Hitchens, from [Damp Surveys Ltd](https://dampsurveys.com/) was particularly helpful, and I shadowed one of a survey he was undertaking on 12th April in Lewisham. The property had recently been inhered by the owner, who wanted to know what work was required on it.  
 
 ## Video footage
-
+Please note, this video has no sound. 
 {{< vimeo 749962001 >}}
 
 ## Field notes
@@ -20,8 +20,7 @@ Simon Hitchens, from [Damp Surveys Ltd](https://dampsurveys.com/) was particular
 <img src="https://elaraks.github.io/dampcapital/20220412_140148_Page_3.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/20220412_140148_Page_4.jpg" width="50%"/>
 <img src="https://elaraks.github.io/dampcapital/20220412_140148_Page_5.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/20220412_140148_Page_6.jpg" width="50%"/>
 <img src="https://elaraks.github.io/dampcapital/20220412_140148_Page_7.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/20220412_140148_Page_8.jpg" width="50%"/>
-<img src="https://elaraks.github.io/dampcapital/20220412_140148_Page_9.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/20220412_140148_Page_10.jpg" width="50%"/>
-<img src="https://elaraks.github.io/dampcapital/20220412_140148_Page_11.jpg" width="100%"/>
+<img src="https://elaraks.github.io/dampcapital/20220412_140148_Page_9.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/20220412_140148_Page_10.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/20220412_140148_Page_11.jpg" width="50%"/>
 
 ## Outcome survey
 
