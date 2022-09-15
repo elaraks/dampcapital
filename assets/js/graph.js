@@ -172,6 +172,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".node").transition().duration(100).attr("fill", "var(--g-node-inactive)")
+      d3.selectAll(".stroke").transition().duration(100).attr("fill", "var(--g-node-inactive)")
+      d3.selectAll(".text").transition().duration(100).attr("fill", "var(--g-node-inactive)")
 
       const neighbours = parseIdsFromLinks([
         ...(index.links[d.id] || []),
@@ -189,7 +191,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
 
       // highlight links
       linkNodes.transition().duration(200).attr("stroke", "var(--g-link-active)")
-
+        
       const bigFont = fontSize*1.5
 
       // show text for self
@@ -202,7 +204,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .style('opacity', 1)
         .style('font-size', bigFont+'em')
         .attr('dy', d => nodeRadius(d) + 20 + 'px') // radius is in px
-    })
+    )}
     .on("mouseleave", function (_, d) {
       d3.selectAll(".node").transition().duration(200).attr("fill", color)
 
