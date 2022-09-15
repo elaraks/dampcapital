@@ -209,7 +209,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .style('opacity', 1)
         .style('font-size', bigFont+'em')
         .attr('dy', d => nodeRadius(d) + 20 + 'px') // radius is in px
-    )}
+    })
+    
     .on("mouseleave", function (_, d) {
       d3.selectAll(".node").transition().duration(200).attr("fill", color)
 
