@@ -189,14 +189,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
 
       // highlight links
       linkNodes.transition().duration(200).attr("stroke", "var(--g-link-active)")
-        
-     text.attr("class", (text_d) => {
-        if (text_d.id !== d.id && !relatedNodesSet.has(text_d.id)) {
-          return "--g-label-inactive";
-        }
-        return "";
-      });
-
+    
       const bigFont = fontSize*1.5
 
       // show text for self
