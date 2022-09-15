@@ -11,6 +11,8 @@
     --g-node-inactive: var(--visited);
     --g-link: var(--outlinegray);
     --g-link-active: rgba(0, 0, 0, 0.8);
+    --g-link-inactive: var(--visited);
+    --g-label-inactive: var(--visited);
   }
 </style>
 {{ $js := resources.Get "js/graph.js" | resources.Fingerprint "md5" }}
