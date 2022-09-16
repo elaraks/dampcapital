@@ -1,12 +1,12 @@
 ---
-title:  "Territorial stigmatisation"
+title:  "Territorial Stigmatisation and Poor Housing at a London ‘Sink Estate’"
 tags: 
 - academic-source
 - annotated-pdf
 ---
 
 
-Article examining [territorial stigmatisation](cause-affect-effect/territorial-stigmatisation) and poor housing conditons on the [Aylesbury estate](cases/aylesbury). Highlights this in particular relation to the view of the Aylesbury as a [sink estate](cause-effect-affect/sink-estate), and the view of the residents as poor conditions resulting from deliberate [neglect](cause-effect-affect/neglect) on the part of the Council. 
+Article by Paul Watt examining [territorial stigmatisation](cause-affect-effect/territorial-stigmatisation) and poor housing conditons on the [Aylesbury estate](cases/aylesbury). Highlights this in particular relation to the view of the Aylesbury as a [sink estate](cause-effect-affect/sink-estate), and the view of the residents as poor conditions resulting from deliberate [neglect](cause-effect-affect/neglect) on the part of the Council. 
 
 <a href="https://elaraks.github.io/dampcapital/images/theory/watt-territorial-stigma-poor-housing.pdf" target="_blank">Right click and select 'Open link in new tab' to view as PDF</a>. 
 
