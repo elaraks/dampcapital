@@ -6,7 +6,7 @@ title: "(ill)Health"
 
 Ill-health is commonly reported by those living with damp conditions. 
 
-While this can often referr to specific conditions such as [asthma](cause-effect-affect/Asthma), [eczema](cause-effect-affect/eczema), [mental health problems](cause-effect-affect/mental-health), and more, the ebbs and flows in how our body carries traces are far from definitive. 
+While this can often referr to specific conditions such as [asthma](cause-effect-affect/Asthma), [atopic](cause-effect-affect/Atopy), [mental health problems](cause-effect-affect/mental-health), and more, the ebbs and flows in how our body carries traces are far from definitive. 
 
 Also endured is a more generalised, non-specific poor quality of health. 
 Getting ill more than usual from repeat [infections](cause-effect-affect/infection), random flare ups of rashes, coughs, and pains. While increasingly health bodies [like the NHS](cause-effect-affect/nhsadvice) are communicating the risks of co-habiting with dampness, annecdotally doctors are often cautious to pin-point exact causation in their patients. This is especially true considering the numerous causes associated with many of the health conditions linked to damp housing. It might be hard to determine whether someone has asthma because of their poor housing conditions, or because of the poor air quality in their area.  
