@@ -1,5 +1,7 @@
 ---
 title: "Damp vs mould"
+tags: 
+- video
 ---
 
 Of note is the fact that over 10% of my [survey](Survey) participants reported having mould at present, and having a past problem of damp that they were no longer experiencing. A further 2% reported a past problem of mould, combined with reporting they had never had a problem with damp. This is really interesting because it's not possible to have mould without moisture –
