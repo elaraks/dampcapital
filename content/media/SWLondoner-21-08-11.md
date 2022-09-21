@@ -5,8 +5,10 @@ tags:
 - image
 - annotated-pdf
 ---
-#### *"The council have run down the estate physically and verbally, and they’ve run down the community." 
--- Sabine Mairey
+>[!cite]
+>
+>**"The council have run down the estate physically and verbally, and they’ve run down the community."**
+>>-- Sabine Mairey
 
 Article in SW Londoner, reporting on the proposed demolition of the Central Hill estate in Lambeth, and opposition to it. Those opposing the plans (including residents and councillors) argue that conditions on the estate have been [deliberately produced in order to justify the regeneration project](cause-effect-affect/managed-decline). 
 

@@ -2,6 +2,8 @@
 title: "(ill)Health"
 ---
 
+## Overview
+
 Ill-health is commonly reported by those living with damp conditions. 
 
 While this can often referr to specific conditions such as [asthma](cause-effect-affect/Asthma), [eczema](cause-effect-affect/eczema), [mental health problems](cause-effect-affect/mental-health), and more, the ebbs and flows in how our body carries traces are far from definitive. 
