@@ -1,5 +1,7 @@
 ---
 title: "(ill)Health"
+tags:
+- image
 ---
 
 ## Overview
