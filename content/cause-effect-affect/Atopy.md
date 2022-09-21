@@ -6,6 +6,8 @@ Like [asthma](cause-effect-affect/Asthma), rhinitis and eczema are commonly thou
 
 
 ### Eczema
-
+blahfds
 
 ### Rhinitis
+
+fdhufdhufd
