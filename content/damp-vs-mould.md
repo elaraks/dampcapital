@@ -7,3 +7,8 @@ Of note is the fact that over 10% of my [survey](Survey) participants reported h
 By contrast, 4% of survey participants had a present damp problem and a past mould problem, and 5% reporting a present damp problem having never had a mould problem. 
 
 
+
+{{< vimeo 752037047 >}}
+
+
+The two most common typologies of household damp are [condensation](cause-effect-affect/condensation) and [penetrating damp](cause-effect-affect/penetrating-damp)
