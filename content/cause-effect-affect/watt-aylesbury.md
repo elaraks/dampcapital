@@ -10,7 +10,6 @@ Article by Paul Watt examining [territorial stigmatisation](cause-effect-affect/
 
 <a href="https://elaraks.github.io/dampcapital/images/theory/watt-territorial-stigma-poor-housing.pdf" target="_blank">Right click and select 'Open link in new tab' to view as PDF</a>.
 
-
 <img src="https://elaraks.github.io/dampcapital/watt-territorial-stigma-poor-housing-01.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/watt-territorial-stigma-poor-housing-02.jpg" width="50%"/>
 <img src="https://elaraks.github.io/dampcapital/watt-territorial-stigma-poor-housing-03.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/watt-territorial-stigma-poor-housing-04.jpg" width="50%"/>
 <img src="https://elaraks.github.io/dampcapital/watt-territorial-stigma-poor-housing-05.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/watt-territorial-stigma-poor-housing-06.jpg" width="50%"/>

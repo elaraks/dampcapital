@@ -5,11 +5,22 @@ tags:
 - method
 ---
 
-Photographs taken of house mould grown in petri dishes on nutrient agar, cultivated using swab and air samples. Through accelerating the growth of household mould, I wanted to question at which point damp becomes visible or legible, while seeking to also understand how attritional violence might be ‘cultivated’ through deliberate efforts. I did not progress this methodology, but highlight it due to its informative role in my thinking on the temporalities at play in this threshold condition.
+Following my earlier experiements with [petri dishes](media/petri-dish), I cultivated mould on photographic slides. Images for the slides were taken from news coverage of damp housing, the vast majority from the [past year](media/news-tracker).
 
-Agar plates are a type of culture or growth [medium](media/media) – solid, liquid, or semi-solid substances designed to support the growth of a population of microorganisms or cells.
+## Initial attempts using sample slides
 
-<img src="https://elaraks.github.io/dampcapital/U-bathroom-air-4.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/Living-room-swab-small.jpg" width="50%"/>
-<img src="https://elaraks.github.io/dampcapital/U-bathroom-swab-b-1.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/Office-swab.jpg" width="50%"/>
-<img src="https://elaraks.github.io/dampcapital/Office-air.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/D-bathroom-swab.jpg" width="50%"/>
-<img src="https://elaraks.github.io/dampcapital/Living-room-air-1.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/D-bathroom-air-3.jpg" width="50%"/>
+<img src="https://elaraks.github.io/dampcapital/initial1.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/initial2.jpg" width="50%"/>
+
+## Attempts using slides with images of dampness  
+
+### Using petri dishes to create damp conditions
+
+<img src="https://elaraks.github.io/dampcapital/petri2.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/petri1.jpg" width="50%"/>
+
+### Progress pictures of slides
+
+<img src="https://elaraks.github.io/dampcapital/progress1.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/progress2.jpg" width="50%"/>
+
+### Projecting mouldy slides
+
+<img src="https://elaraks.github.io/dampcapital/project1.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/project2.jpg" width="50%"/>
