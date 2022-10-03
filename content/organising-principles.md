@@ -23,7 +23,7 @@ With this in mind, I arrived at a web-linked, or matrix-modelled, site structure
 
 This presented some problems with tagging – entries were only connected on the graph where there was a direct link present. This meant it wasn't possible to see how entries held similarity in theme or typology. I then added the catalogue page to fill this function, with the aim of moving towards developing the the notes-graph to be searchable or filterable.
 
-The notes graph, which appears at the bottom of every page, and the side of every entry, functions as this map.
+The notes graph, which appears at the bottom of the home page, and the side of every entry, functions as this map. The graph displayed at the bottom of the home page is a 'global' map – it displays all entries and links. The graph displayed at the side of every entry is a 'local' map – it displays all links within a range of 2 from the selected entry (all other entries directly linked to it, and all entries directly linked to these).
 
 ### Tagging system
 
@@ -35,6 +35,7 @@ The majority of the tags used in this archive group entries by typology and by f
 - <a href="https://elaraks.github.io/dampcapital/tags/annotated-pdf/" target="_blank">With annotated PDF</a>
 - <a href="https://elaraks.github.io/dampcapital/tags/sound/" target="_blank">With sound</a>
 - <a href="https://elaraks.github.io/dampcapital/tags/field-note/" target="_blank">With field note</a>
+- <a href="https://elaraks.github.io/dampcapital/tags/field-note/" target="_blank">With map</a>
 #### By type
 - <a href="https://elaraks.github.io/dampcapital/tags/method/" target="_blank">Own methodology</a>
 - <a href="https://elaraks.github.io/dampcapital/tags/news-coverage/" target="_blank">News coverage</a>
