@@ -9,7 +9,7 @@ Article by Loretta Lees and Hannah White examining the social cleansing of Londo
 <a href="https://elaraks.github.io/dampcapital/images/theory/Lees-White-accumulativedisposession.pdf" target="_blank">Right click and select 'Open link in new tab' to view as PDF</a>.
 
 <img src="https://elaraks.github.io/dampcapital/Lees-White-accumulativedisposession-02.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/Lees-White-accumulativedisposession-03.jpg" width="50%"/>
-<img src="https://elaraks.github.io/dampcapital/Lees-White-accumulativedispssession-04.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/Lees-White-accumulativedisposession-05.jpg" width="50%"/>
+<img src="https://elaraks.github.io/dampcapital/Lees-White-accumulativedisposession-04.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/Lees-White-accumulativedisposession-05.jpg" width="50%"/>
 <img src="https://elaraks.github.io/dampcapital/Lees-White-accumulativedisposession-06.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/Lees-White-accumulativedisposession-07.jpg" width="50%"/>
 <img src="https://elaraks.github.io/dampcapital/Lees-White-accumulativedisposession-08.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/Lees-White-accumulativedisposession-09.jpg" width="50%"/>
 <img src="https://elaraks.github.io/dampcapital/Lees-White-accumulativedisposession-10.jpg" width="50%"/><img src="https://elaraks.github.io/dampcapital/Lees-White-accumulativedisposession-11.jpg" width="50%"/>
