@@ -1,5 +1,6 @@
 ---
 title: Shame & embarrassment
+enableToc: false
 ---
 
 Shame and embarrassment are common side effects of enduring dampness. This predominantly manifests in relation to inviting friends and family over,   
