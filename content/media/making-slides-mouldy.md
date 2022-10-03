@@ -1,5 +1,5 @@
 ---
-title: "Petri dish grown mould"
+title: "Making slides damp"
 tags:
 - image
 - method
