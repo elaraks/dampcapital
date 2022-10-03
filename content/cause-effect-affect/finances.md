@@ -1,5 +1,6 @@
 ---
 title: "Finances"
+enableToc: false
 ---
 
 Those who endure damp conditions face heightened financial costs, undertaken in order to mitigate the problem and its effects.

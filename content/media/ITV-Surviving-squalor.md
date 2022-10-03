@@ -10,6 +10,6 @@ Hewitt's framing for the investigation emerged in 2017 from his reporting on chi
 
 {{< vimeo 748791336 >}}
 
-Key focuses of the investigation were [Croydon Council's](providers/Croydon) [Regina Road](cases/regina-road) and the [Clarion](providers/clarion)-run [Eastfields estate](cases/eastfields-estate) in [Merton](providers/Merton). The spotlight given to these two sites in particular has held a lasting significance in 
+Key focuses of the investigation were [Croydon Council's](providers/Croydon) [Regina Road](cases/regina-road) and the [Clarion](providers/clarion)-run [Eastfields estate](cases/eastfields-estate) in [Merton](providers/Merton). The spotlight given to these two sites in particular has held a lasting significance in
 
 One of the interviewees, [Kwajo Tweneboa](media/kwajo) ee
