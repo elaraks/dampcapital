@@ -4,4 +4,4 @@ title: "Regeneration"
 
 Regeneration
 
-[accumulative disposession](cause-effect-affect/accumulative-dispossession.md)
+[accumulative dissposession](cause-effect-affect/accumulative-dispossession)
