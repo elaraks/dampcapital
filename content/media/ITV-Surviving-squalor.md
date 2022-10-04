@@ -10,6 +10,6 @@ Hewitt's framing for the investigation emerged in 2017 from his reporting on chi
 
 {{< vimeo 748791336 >}}
 
-Key focuses of the investigation were Croydon Council's [Regina Road](cases/regina-road) and the [Clarion](providers/clarion)-run [Eastfields estate](cases/eastfields-estate) in Merton. The spotlight given to these two sites in particular has held a lasting significance in
+Key focuses of the investigation were Croydon Council's [Regina Road](cases/regina-road) and the [Clarion](providers/clarion)-run [Eastfields estate](cases/eastfields-estate) in Merton. The spotlight given to these two sites in particular has held a lasting media attention, as well as for their residents – one of the interviewees being [Kwajo Tweneboa](media/kwajo).
 
-One of the interviewees, [Kwajo Tweneboa](media/kwajo) ee
+ITV's reporting was also a key source for the Department for Levelling Up, Housing, and Communities Committee's [report into the subject](evidence/regulation-of-social-housing), with reporter Daniel Hewitt being the second most referenced witness within it. 
