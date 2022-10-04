@@ -4,7 +4,7 @@ tags:
 - academic-source
 ---
 
-Article by Loretta Lees and Hannah White examining the social cleansing of London council estates, positioning this as a form of accumulative dispossession. This reworking of David Harvey’s accumulation by dispossession serves to “underline the accumulation of policies and practices that have been put in place in attacks on council housing and their residents” and “highlight the layering of these processes” spatially and temporally.
+Article by Loretta Lees and Hannah White examining the social cleansing of London council estates via [regeneration](cause-effect-affect/regeneration), positioning this as a form of accumulative dispossession. This reworking of David Harvey’s accumulation by dispossession serves to “underline the accumulation of policies and practices that have been put in place in attacks on council housing and their residents” and “highlight the layering of these processes” spatially and temporally.
 
 <a href="https://elaraks.github.io/dampcapital/images/theory/Lees-White-accumulativedisposession.pdf" target="_blank">Right click and select 'Open link in new tab' to view as PDF</a>.
 
