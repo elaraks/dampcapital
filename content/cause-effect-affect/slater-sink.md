@@ -1,6 +1,8 @@
 ---
 title: "The invention of the 'sink estate'"
 enableToc: false
+tags:
+- academic-source
 ---
 
 Article by Tom Slater examining the realisation of the category of the [sink estate](cause-effect-affect/sink-estate), and how its mobilisation by politicians, think tanks, and journalists, lead to [displacement](cause-effect-affect/displacement) for the urban poor.

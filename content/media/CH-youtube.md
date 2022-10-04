@@ -5,3 +5,5 @@ tags:
 ---
 
 {{< vimeo 756359974 >}}
+
+From the group [Refurbish! Don't Demolish! Central Hill](resistance/resistance).
