@@ -4,13 +4,13 @@ title: Blake Court
 
 ### Summary
 
-Council housing in [Brent](providers/Brent)
+Council housing in Brent
 
 Proposed [mixed tenure redevelopment regeneration](cause-effect-affect/regeneration)
 
 ### Timeline
 
-- 
+-
 
 ### Documentation
 

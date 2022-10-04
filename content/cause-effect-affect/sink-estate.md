@@ -1,5 +1,6 @@
 ---
 title: "Sink estate"
+enableToc: false
 ---
 <em><h5>"Somewhere, in every town that has council houses at all, there’s a sink estate – the roughest and shabbiest on the books, disproportionally tenanted by families with problems, and despised both by those who live there and the town at large. [...] As long as families on the margins of society are shunted into second best accommodation, there will be sinks."</em></h5>
 - Jane Morton, *New Society Magazine*, November 1976. First use of the term sink estate.

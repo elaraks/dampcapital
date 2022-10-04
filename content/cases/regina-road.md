@@ -4,13 +4,13 @@ title: Regina Road
 
 ### Summary
 
-Council housing in 
+Council housing in
 
-in [Croydon](providers/Croydon)
+in Croydon
 
 ### Timeline
 
-- 
+-
 
 ### Documentation
 

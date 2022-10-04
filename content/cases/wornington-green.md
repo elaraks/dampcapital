@@ -6,14 +6,14 @@ title: Wornington Green
 
 [Catalyst](providers/catalyst), soon to be [Peabody](providers/peabody)
 
-in [Kensington & Chelsea](providers/kensington-and-chelsea)
+in Kensington & Chelsea
 
 
 [Regeneration](cause-effect-affect/regeneration)
 
 ### Timeline
 
-- 
+-
 
 ### Documentation
 
@@ -22,4 +22,3 @@ in [Kensington & Chelsea](providers/kensington-and-chelsea)
     - Audio extracts from Keith Stirling - chairman of the Wornington Green Residents Association.  - In focus:  
 - 13.04.2022, [survey response](testimony/SR051)  
     - In focus:  
-	

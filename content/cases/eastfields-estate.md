@@ -6,7 +6,7 @@ title: Eastfields, High Path, and Ravensbury
 
 [Clarion](providers/clarion)
 
-in Mitcham, [Merton](providers/Merton)
+in Mitcham, Merton
 
 ### Timeline
 
