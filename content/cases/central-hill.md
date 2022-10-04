@@ -30,7 +30,6 @@ With 476 homes are earmarked for demolition, Central Hill is the largest of Lamb
 - [01/02/22, the Mirror](media/Mirror-22-02-01)
 - [11/08/21, Architects Journal](media/AJ-22-02-23)
 - [14/06/22, London News Online](media/LNO-22-06-14)
-- [01/07/22, My London](media/MyLondon-22-07-01)
 - [02/07/22, Wandsworth Times](media/WT-22-07-02)
 
 ### Social media posts
